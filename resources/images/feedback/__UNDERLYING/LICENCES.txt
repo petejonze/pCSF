@@ -1,0 +1,29 @@
+@File:		500px-Happy_face.svg.png
+@Author:	Roman 92
+@LICENCE:	Public Domain
+@Taken from:	http://commons.wikimedia.org/wiki/File:Happy_face.svg
+@Date:		06/02/10
+@Notes:		Works under Public Domain do not require attribution. When citing the work, you should not imply endorsement by the author.
+
+
+@File:		500px-Sad_face.svg.png
+@Author:	Roman Tworkowski
+@LICENCE:	Public Domain
+@Taken from:	http://commons.wikimedia.org/wiki/File:Sad_face.svg
+@Date:		06/02/10
+@Notes:		Works under Public Domain do not require attribution. When citing the work, you should not imply endorsement by the author.
+	
+
+@File:		600px-Happy_smiley_face.png
+@Author:	Hedfones
+@LICENCE:	Creative Commons CC0
+@Taken from:	http://commons.wikimedia.org/wiki/File:Happy_smiley_face.png
+@Date:		06/02/10
+@Notes:		Works under CC0 do not require attribution. When citing the work, you should not imply endorsement by the author.
+	
+
+
+
+
+
+
